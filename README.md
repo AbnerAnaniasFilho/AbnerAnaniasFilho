@@ -1,17 +1,17 @@
-# Abner Ananias Filho
+# Abner Ananias
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC e estagiário de Infraestrutura no CREA-SP. Estou me preparando para atuar como **Engenheiro de Dados**, com base em SQL, Python e Java.
+Systems Analysis and Development student at FATEC (a public technology college in São Paulo, Brazil) and IT Infrastructure intern at CREA-SP. I'm working toward a **Data Engineer** role, building on a foundation of SQL, Python, and Java.
 
-Aberto a oportunidades · [LinkedIn](https://linkedin.com/in/abnerananias)
+Open to work · [LinkedIn](https://linkedin.com/in/abnerananias)
 
 ---
 
-**Stack:** Java · Python · SQL e PL/SQL · Oracle · Pandas · Power BI · Git · Azure DevOps · Postman
+**Stack:** Java · Python · SQL and PL/SQL · Oracle · pandas · Power BI · Git · Azure DevOps · Postman
 
-**Projetos em destaque**
+**Featured projects**
 
-- [delivery-sonhos-banco-dados](https://github.com/AbnerAnaniasFilho/delivery-sonhos-banco-dados): banco de dados relacional em Oracle, com procedures, cursores e uma função agregada customizada em PL/SQL
-- [fatec-estrutura-de-dados](https://github.com/AbnerAnaniasFilho/fatec-estrutura-de-dados): listas, pilhas, filas e árvores binárias implementadas do zero em Java
-- [curso-sql](https://github.com/AbnerAnaniasFilho/curso-sql): JOINs, CTEs, window functions e um pipeline de ETL em SQLite
+- [delivery-sonhos-banco-dados](https://github.com/AbnerAnaniasFilho/delivery-sonhos-banco-dados): Oracle relational database with stored procedures, cursors, and a custom aggregate function in PL/SQL
+- [fatec-estrutura-de-dados](https://github.com/AbnerAnaniasFilho/fatec-estrutura-de-dados): linked lists, stacks, queues, and binary search trees built from scratch in Java
+- [curso-sql](https://github.com/AbnerAnaniasFilho/curso-sql): JOINs, CTEs, window functions, and an ETL pipeline in SQLite
 
-**Próximos passos:** modelagem de dados → dbt → Airflow → cloud → Spark e Docker
+**Next steps:** data modeling → dbt → Airflow → cloud → Spark and Docker
