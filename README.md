@@ -6,10 +6,11 @@ Open to work · [LinkedIn](https://linkedin.com/in/abnerananias)
 
 ---
 
-**Stack:** Java · Python · SQL and PL/SQL · Oracle · pandas · Power BI · Git · Azure DevOps · Postman
+**Stack:** Java · Python · SQL and PL/SQL · Oracle · PostgreSQL · pandas · Power BI · Git · Azure DevOps · Postman
 
 **Featured projects**
 
+- [pipeline-indicadores-bcb](https://github.com/AbnerAnaniasFilho/pipeline-indicadores-bcb): incremental data pipeline in Python that loads Central Bank of Brazil indicators into PostgreSQL, with SQL analytical views and a Power BI dashboard
 - [delivery-sonhos-banco-dados](https://github.com/AbnerAnaniasFilho/delivery-sonhos-banco-dados): Oracle relational database with stored procedures, cursors, and a custom aggregate function in PL/SQL
 - [fatec-estrutura-de-dados](https://github.com/AbnerAnaniasFilho/fatec-estrutura-de-dados): linked lists, stacks, queues, and binary search trees built from scratch in Java
 - [curso-sql](https://github.com/AbnerAnaniasFilho/curso-sql): JOINs, CTEs, window functions, and an ETL pipeline in SQLite
